@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+FsuLo9si0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khrmn\\source\\repos\\askeri-tesis-app\\askeri-tesis-app\\askeri-tesis-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khrmn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\khrmn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\khrmn\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
